@@ -1,0 +1,6 @@
+https://server2-my6q.onrender.com/set_threshold
+
+
+https://dashboard.render.com/web/srv-cvn3nvm3jp1c73923lk0/settings
+
+https://github.com/hepta555/server2/blob/main/server.py
